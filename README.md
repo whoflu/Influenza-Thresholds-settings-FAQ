@@ -40,3 +40,81 @@
 
 **A:** This is a complex issue and depends on [factors/details]. While there isn't a one-size-fits-all answer, general guidelines suggest [your advice here].
 
+---
+### Q: How often should thresholds be reviewed and potentially recalibrated?
+
+**A:** It's advisable to review thresholds annually. This allows for the incorporation of the most recent season's data and ensures that the thresholds remain relevant in light of new epidemiological trends or changes in data quality.
+
+---
+
+### Q: Are there specific tools or software recommended for threshold setting?
+
+**A:** Several tools are available, but the right choice depends on the specific data and context. Software packages like R and Python have libraries that can assist with statistical analysis for threshold setting. For a more user-friendly experience, apps dedicated to epidemiological tracking, like FluView, could be explored.
+
+---
+
+### Q: Can we apply the same threshold settings across different diseases or conditions?
+
+**A:** Each disease or condition has unique epidemiology, and it's generally not advisable to directly apply the same thresholds across them. However, the methodology or approach might be similar, but specific values or parameters should be tailored to each disease's characteristics.
+
+---
+
+### Q: How do we handle unexpected outliers or anomalies in the data when setting thresholds?
+
+**A:** It's crucial first to investigate any outliers or anomalies to determine if they are genuine or a result of data errors. If they're genuine, they should be included in the analysis. But if they result from errors, they should be corrected or removed. Robust statistical methods can also be employed to minimize the impact of outliers on threshold settings.
+
+---
+
+### Q: How should we adjust thresholds in light of significant public health interventions (like vaccinations)?
+
+**A:** Significant public health interventions can change the disease landscape. After such interventions, it's essential to monitor data closely and consider a recalibration of thresholds if there's a marked change in disease incidence or patterns.
+
+---
+
+### Q: How do external factors, like weather patterns or public events, impact threshold settings?
+
+**A:** External factors can influence disease transmission and patterns. When setting thresholds, it's beneficial to consider seasonality and any known factors that might lead to unusual spikes in disease activity. Historical data can often provide insights into how such external factors have influenced past outbreaks.
+
+---
+### Q: Should thresholds be adjusted for population size or density?
+
+**A:** Yes, population size and density can influence disease transmission. It's essential to normalize or adjust thresholds, especially when comparing different regions or cities with varying population sizes. Using rates (like cases per 100,000 population) can help in this adjustment.
+
+---
+
+### Q: How do we manage thresholds for new or emerging diseases with limited historical data?
+
+**A:** For new or emerging diseases, the lack of historical data poses a challenge. Start by using shorter-term data, being prepared to adjust thresholds frequently as more data becomes available. Collaboration with other regions or countries to pool data can also be beneficial.
+
+---
+
+### Q: Are there differences in setting thresholds for acute versus chronic diseases?
+
+**A:** Yes, acute diseases often have more pronounced fluctuations and seasonality, requiring dynamic thresholds to capture outbreaks. Chronic diseases might have steadier patterns, and thresholds could focus more on long-term trends rather than short-term spikes.
+
+---
+
+### Q: How can we incorporate lab-confirmed cases versus clinically diagnosed cases in thresholds?
+
+**A:** It's advisable to differentiate between lab-confirmed and clinically diagnosed cases. Lab-confirmed cases provide a higher degree of certainty but might be underreported. Clinically diagnosed cases give a broader picture but might include misdiagnoses. Consider having separate thresholds or a weighted approach.
+
+---
+
+### Q: How do global travel patterns influence thresholds, especially for highly communicable diseases?
+
+**A:** Global travel can introduce or amplify outbreaks. For diseases prone to international spread, consider monitoring travel data or alerts from major transit hubs. An unusual spike in cases from a travel origin might warrant a review of your thresholds.
+
+---
+
+### Q: Should public perception or media attention influence threshold adjustments?
+
+**A:** While public perception and media attention are important for public health communication, they should not directly influence the scientific process of threshold setting. However, understanding public perception can help in communication strategies once a threshold is crossed.
+
+---
+
+### Q: How do we balance the need for sensitivity (detecting true outbreaks) versus specificity (avoiding false alarms) in threshold settings?
+
+**A:** The balance depends on the disease's consequences and the cost of false alarms. For severe diseases, higher sensitivity might be favored at the risk of occasional false alarms. Regular reviews and adjustments can help fine-tune this balance over time.
+
+
+
