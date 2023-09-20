@@ -1,4 +1,4 @@
-## Frequently Asked Questions (FAQ)
+## Frequently Asked Questions (FAQ) for Thresholds Settings
 
 ### Q: How should we approach the consistency of these thresholds over time?
 
