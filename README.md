@@ -87,7 +87,6 @@ In general, a minimum of 3-5 years of consistent, high-quality data is often rec
 
 - **For the Average Curve Method (ACM):**
   - Just as with the MEM, you can manually calculate thresholds following the ACM steps. However, for ease and convenience, there's a **[web-based application](https://worldhealthorg.shinyapps.io/averagecurves/)** available. This tool is designed for users without the requirement of R knowledge.
-
 These tools greatly streamline the threshold setting process, making it more accessible to both experts and those new to the field.
 ---
 
