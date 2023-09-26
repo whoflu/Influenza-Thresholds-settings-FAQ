@@ -247,5 +247,29 @@ In conclusion, while there are established methods for threshold setting, they a
 
 ---
 
+### Q: What are the pros and cons of excluding COVID-19 pandemic era data in influenza thresholds settings?
+
+**A:** The COVID-19 pandemic had significant impacts on global health systems, public behaviors, and the circulation of other respiratory viruses, including influenza. The pros and cons of excluding this era data from influenza threshold settings are:
+
+**Pros:**
+1. **Reduced Noise:** The widespread adoption of preventive measures like mask-wearing, hand hygiene, and social distancing during the COVID-19 pandemic led to unusual reductions in influenza circulation. Excluding this period can reduce noise and outliers in the dataset.
+   
+2. **Avoid Skewed Thresholds:** The atypical influenza activity during the pandemic could result in thresholds that are either too lenient or too strict if included.
+
+3. **Reflective of Regular Conditions:** Removing the pandemic era can make data more reflective of "regular" or non-pandemic conditions, which may be more helpful for setting accurate thresholds in the future.
+
+4. **Less Confounding:** Many factors during the COVID-19 pandemic, like increased testing for respiratory illnesses or misclassification of cases, could confound influenza data. Exclusion minimizes this impact.
+
+**Cons:**
+1. **Loss of Data:** Excluding any period results in a loss of data, which could be valuable, especially for countries or regions with limited historical data.
+
+2. **Unpredictable Future Scenarios:** Pandemics and global health crises are not predictable. Excluding the COVID-19 era might make the thresholds less adaptable to other unforeseen events in the future.
+
+3. **Understanding Co-Circulation:** If both COVID-19 and influenza are circulating simultaneously, understanding their interplay might be crucial. Excluding this data might lead to missed insights about potential synergies or interferences.
+
+4. **Neglecting Behavior Shifts:** The pandemic led to long-term changes in public behavior, like increased remote working or permanent adoption of some preventive measures. Excluding this era might not account for these lasting changes, which could impact influenza trends.
+
+--- 
+
 
 
