@@ -1,4 +1,4 @@
-## Frequently Asked Questions (FAQ) for Influenza Thresholds Settings
+## Frequently Asked Questions (FAQ) for Setting Influenza Thresholds
 
 ### Q: How should I approach the consistency of these thresholds over time?
 
