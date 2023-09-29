@@ -14,7 +14,8 @@
  -  **Data Quality:** High-quality and consistent historical data might make fewer years sufficient. In contrast, data with inconsistencies or voids could demand a more extended historical dataset for trustworthy percentiles.
 
  -  **Purpose of Analysis:** For immediate or provisional insights, a shorter dataset may be acceptable. Yet, for in-depth epidemiological evaluations or public health initiatives, a more extended dataset is recommended.
-Overall, it's advised to have between 5-10 years of data. However, at a very minimum, 3 years of consistent, high-quality data is typically essential to derive meaningful percentiles for influenza patterns. The broader the data scope, the more dependable and indicative your percentiles will be.
+
+**Overall, it's advised to have between 5-10 years of data. However, at a very minimum, 3 years of consistent, high-quality data is typically essential to derive meaningful percentiles for influenza patterns. The broader the data scope, the more dependable and indicative your percentiles will be.**
 ---
 
 ### Q3: What can I do if I only have 2 years of data?
