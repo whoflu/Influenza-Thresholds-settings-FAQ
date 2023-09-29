@@ -243,7 +243,7 @@ In conclusion, while there are established methods for threshold setting, they a
 
  4. **Data Quality:** New sites might have different levels of data quality initially, especially if they are still streamlining their surveillance protocols. The threshold-setting process should account for potential inconsistencies or inaccuracies in the data.
 
-5 . **Calibration:** It might be necessary to recalibrate previously set thresholds using a combination of historical data and the data from new sites. This might involve weighting the contributions of older, more established sites versus newer ones or using statistical techniques to merge data.
+ 5 .**Calibration:** It might be necessary to recalibrate previously set thresholds using a combination of historical data and the data from new sites. This might involve weighting the contributions of older, more established sites versus newer ones or using statistical techniques to merge data.
 
  6. **Temporal Adjustments:** The inclusion of new data can shift the observed seasonality or timing of influenza peaks. Continuous monitoring of the temporal trends, especially in the initial stages post integration of the new sites, is advised.
 
@@ -255,4 +255,19 @@ In conclusion, while there are established methods for threshold setting, they a
 
 In summary, the addition of new sentinel sites enriches the surveillance data but also introduces complexities. Addressing these systematically and leveraging both empirical data and expert insights will ensure thresholds remain relevant and robust.
 
+--- 
+--- 
+### Q16:  Why is the seasonal threshold  sometimes above the low activity intensity threshold in our calculations?
 
+**A:**  Such a situation, while uncommon, can arise due to various statistical and epidemiological factors. Here's a detailed exploration:
+
+1. **Statistical Artifacts:**
+   - **Outliers:** Outliers in the dataset, especially during non-seasonal periods, can artificially elevate the seasonal threshold. Such outliers might arise from reporting errors, sudden mini-outbreaks, or changes in testing patterns.
+   - **Data Smoothing:** Depending on the smoothing technique used to calculate thresholds, short-term fluctuations might disproportionately affect the seasonal threshold.
+
+2. **Changes in Surveillance Sensitivity:** An increased sensitivity in surveillance, perhaps due to more comprehensive testing or changes in case definitions, might result in higher reported cases during off-peak months, affecting the seasonal threshold.
+
+3. **Epidemiological Shifts:**
+   - **Continuous Low-Level Transmission:** In some settings, continuous low-level transmission of influenza can occur, making it challenging to distinguish between seasonal and non-seasonal activity.
+   - **Comparative Data:** It's essential to compare thresholds with neighboring regions or countries with similar epidemiology. If they exhibit similar patterns, it might hint at broader epidemiological dynamics at play.
+   - **Re-evaluation of Calculation Method:** The method used to calculate thresholds may not be capturing the true epidemiological dynamics of your setting. Consider using multiple methods and comparing results for robustness.
