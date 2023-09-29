@@ -231,7 +231,7 @@ In conclusion, while there are established methods for threshold setting, they a
 4. **Neglecting Behavior Shifts:** The pandemic led to long-term changes in public behavior, like increased remote working or permanent adoption of some preventive measures. Excluding this era might not account for these lasting changes, which could impact influenza trends.
 
 --- 
-### Q15: Given the recent integration of additional sentinel sites into our influenza surveillance system, how does this influence the setting of thresholds (TH)?
+### Q15: Given the recent integration of additional sentinel sites into our influenza surveillance system, how does this influence the setting of thresholds?
 
 **A:** The addition of new sentinel sites to an influenza surveillance system can significantly impact the threshold setting process in several ways:
 
