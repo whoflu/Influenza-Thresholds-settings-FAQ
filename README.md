@@ -1,6 +1,6 @@
 ## Frequently Asked Questions (FAQ) for Setting Influenza Thresholds
 
-### Q1: Why not use thresholds that vary by week?
+### Q1: Why shouldn't we utilize thresholds that change on a weekly basis?
 
 **A:** The PISA methodology uses thresholds that do not vary by week but are consistent throughout the epidemic. Typically, thresholds are kept consistent week-to-week for ease of monitoring and interpretation. This consistency ensures stability, predictability, and straightforward comparisons of disease activity across different timeframes. Moreover, with influenza seasons exhibiting substantial variations in their timing, fluctuating thresholds could lead to misinterpretations. A constant benchmark aids healthcare professionals and the public in gauging the severity of a season and anticipating future trends, making it crucial to maintain relative stability in thresholds while also periodically revisiting them for updates.
 
