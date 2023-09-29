@@ -231,6 +231,28 @@ In conclusion, while there are established methods for threshold setting, they a
 4. **Neglecting Behavior Shifts:** The pandemic led to long-term changes in public behavior, like increased remote working or permanent adoption of some preventive measures. Excluding this era might not account for these lasting changes, which could impact influenza trends.
 
 --- 
+### Q15: Given the recent integration of additional sentinel sites into our influenza surveillance system, how does this influence the setting of thresholds (TH)?
 
+**A:** The addition of new sentinel sites to an influenza surveillance system can significantly impact the threshold setting process in several ways:
+
+1. **Increase in Data Volume:** More sentinel sites usually mean more data. This can lead to a better representation of influenza activity in the entire population, potentially increasing the precision of the thresholds.
+
+2. **Spatial Variability:** Different sentinel sites might capture data from areas with distinct influenza activity patterns. It's crucial to consider the heterogeneity introduced by these new sites, especially if they represent previously unsampled regions.
+
+ 3. **Data Consistency:** The introduction of new sentinel sites can sometimes cause an artificial surge in reported cases, not due to increased disease activity but because of the expanded surveillance. It's crucial to differentiate these artificial trends from genuine influenza activity.
+
+ 4. **Data Quality:** New sites might have different levels of data quality initially, especially if they are still streamlining their surveillance protocols. The threshold-setting process should account for potential inconsistencies or inaccuracies in the data.
+
+5 . **Calibration:** It might be necessary to recalibrate previously set thresholds using a combination of historical data and the data from new sites. This might involve weighting the contributions of older, more established sites versus newer ones or using statistical techniques to merge data.
+
+ 6. **Temporal Adjustments:** The inclusion of new data can shift the observed seasonality or timing of influenza peaks. Continuous monitoring of the temporal trends, especially in the initial stages post integration of the new sites, is advised.
+
+ 7. **Feedback Mechanisms:** Engage with the staff and personnel of the new sentinel sites. Their feedback can provide valuable ground-level insights which might not be immediately apparent from raw data.
+
+ 8. **Collaboration with Modeling Experts:** Utilizing epidemiological models can help in understanding the potential impact of the added sites on threshold values. These models can simulate different scenarios considering the influence of the new data.
+
+ 9. **Regular Review and Iteration:** Given the dynamic nature of influenza and the major change in the surveillance system, it's paramount to frequently review and adjust the thresholds, especially in the initial years after adding new sentinel sites.
+
+In summary, the addition of new sentinel sites enriches the surveillance data but also introduces complexities. Addressing these systematically and leveraging both empirical data and expert insights will ensure thresholds remain relevant and robust.
 
 
