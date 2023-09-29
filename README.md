@@ -256,7 +256,7 @@ In conclusion, while there are established methods for threshold setting, they a
 In summary, the addition of new sentinel sites enriches the surveillance data but also introduces complexities. Addressing these systematically and leveraging both empirical data and expert insights will ensure thresholds remain relevant and robust.
 
 --- 
---- 
+
 ### Q16:  Why is the seasonal threshold  sometimes above the low activity intensity threshold in our calculations?
 
 **A:**  Such a situation, while uncommon, can arise due to various statistical and epidemiological factors. Here's a detailed exploration:
@@ -271,3 +271,32 @@ In summary, the addition of new sentinel sites enriches the surveillance data bu
    - **Continuous Low-Level Transmission:** In some settings, continuous low-level transmission of influenza can occur, making it challenging to distinguish between seasonal and non-seasonal activity.
    - **Comparative Data:** It's essential to compare thresholds with neighboring regions or countries with similar epidemiology. If they exhibit similar patterns, it might hint at broader epidemiological dynamics at play.
    - **Re-evaluation of Calculation Method:** The method used to calculate thresholds may not be capturing the true epidemiological dynamics of your setting. Consider using multiple methods and comparing results for robustness.
+
+---
+
+--- 
+### Q17:  Why do the various intensity thresholds appear very close to each others , and how can we address this issue?
+
+**A:** When intensity thresholds—whether they are low, moderate, high, or very high—are closely situated, it can be attributed to a combination of statistical nuances and epidemiological factors:
+1. **Statistical Variability:**
+      - When data has limited variability, it can lead to closely spaced thresholds. This might be due to homogeneity in the dataset or a smaller sample size.
+
+2. **Surveillance Consistency:**
+      - If there have been significant changes in the surveillance system, such as the inclusion of new sentinel sites, it can impact data trends. This might lead to non-uniformity in data, causing thresholds to converge.
+
+
+**Solutions:**
+
+1. **Re-evaluation:**
+      - Regularly review the data and methods used to set thresholds. Adjust or refine methodologies if needed.
+
+2. **Data Augmentation:**
+      - Consider incorporating additional years of data or expanding the dataset to ensure a more comprehensive perspective. This can help in spacing out the thresholds more distinctly.
+
+3. **Expert Review:**
+      - Assemble a team of epidemiologists and statisticians to scrutinize the data and the resulting thresholds. Their insights can guide adjustments or suggest alternate approaches.
+
+4. **Dynamic Adjustments:**
+        Be prepared to modify thresholds based on ongoing surveillance. As more data becomes available, recalibrating thresholds can help in addressing the clustering of intensity thresholds.
+
+**In summary, closely spaced intensity thresholds require meticulous data scrutiny and methodological adjustments. Regular reviews, expert consultation, and dynamic recalibrations are essential to ensure the thresholds are meaningful and actionable.**
