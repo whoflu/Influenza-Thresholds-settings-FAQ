@@ -299,7 +299,7 @@ In summary, the addition of new sentinel sites enriches the surveillance data bu
       - Be prepared to modify thresholds based on ongoing surveillance. As more data becomes available, recalibrating thresholds can help in addressing the clustering of intensity thresholds.
 
 
-Overall, it's advised to have between 5-10 years of data. However, at a very minimum, 3 years of consistent, high-quality data is typically essential to derive meaningful thresholds for influenza activity.
+In summary, closely spaced intensity thresholds require meticulous data scrutiny and methodological adjustments. Regular reviews, expert consultation, and ynamic recalibrations are essential to ensure the thresholdsare meaningful and actionable.
 
-In summary, closely spaced intensity thresholds require meticulous data scrutiny and methodological adjustments. Regular reviews, expert consultation, and dynamic recalibrations are essential to ensure the thresholds are meaningful and actionable.
+
 --- 
