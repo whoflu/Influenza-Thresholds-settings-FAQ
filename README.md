@@ -1,18 +1,30 @@
 ## Frequently Asked Questions (FAQ) for Setting Influenza Thresholds
 
-### Q: How should I approach the consistency of these thresholds over time?
+### Q1: Why not use thresholds that vary by week?
 
-**A:** Typically, thresholds are kept consistent week-to-week for ease of monitoring and interpretation. This consistency ensures stability, predictability, and straightforward comparisons of disease activity across different timeframes. Moreover, with influenza seasons exhibiting substantial variations in their timing, fluctuating thresholds could lead to misinterpretations. A constant benchmark aids healthcare professionals and the public in gauging the severity of a season and anticipating future trends, making it crucial to maintain relative stability in thresholds while also periodically revisiting them for updates.
+**A:** The PISA methodology uses thresholds that do not vary by week but are consistent throughout the epidemic. Typically, thresholds are kept consistent week-to-week for ease of monitoring and interpretation. This consistency ensures stability, predictability, and straightforward comparisons of disease activity across different timeframes. Moreover, with influenza seasons exhibiting substantial variations in their timing, fluctuating thresholds could lead to misinterpretations. A constant benchmark aids healthcare professionals and the public in gauging the severity of a season and anticipating future trends, making it crucial to maintain relative stability in thresholds while also periodically revisiting them for updates.
 
 ---
+### Q2: How many years of historical data are required to set thresholds?
 
-### Q: What can I do if I only have 2 years of data?
+**A:** The process of determining the optimal amount of historical data for setting percentiles is multifaceted, influenced by various factors:
+
+ - **Variability of the Disease:** Diseases with significant year-to-year fluctuations may require an extended data duration for a more solid percentile determination.
+
+ -  **Data Quality:** High-quality and consistent historical data might make fewer years sufficient. In contrast, data with inconsistencies or voids could demand a more extended historical dataset for trustworthy percentiles.
+
+ -  **Purpose of Analysis:** For immediate or provisional insights, a shorter dataset may be acceptable. Yet, for in-depth epidemiological evaluations or public health initiatives, a more extended dataset is recommended.
+
+Overall, it's advised to have between 5-10 years of data. However, at a very minimum, 3 years of consistent, high-quality data is typically essential to derive meaningful percentiles for influenza patterns. The broader the data scope, the more dependable and indicative your percentiles will be.
+---
+
+### Q3: What can I do if I only have 2 years of data?
 
 **A:** When faced with just 2 years of data, the depth for robust trend analysis is understandably limited. In such scenarios, it's prudent to rely on expert consensus. Convene a panel of experts, like epidemiologists and healthcare professionals familiar with influenza in the region. Present any observed patterns from the 2-year span to this panel, then collaboratively establish provisional thresholds, bearing in mind their tentative nature. As more data becomes available in the future, these thresholds should be revisited and refined, potentially with further expert input. Additionally, collaborating with regions having similar characteristics but longer data histories can offer valuable context.
 
 ---
 
-### Q: How should I deal with data gaps?
+### Q4: How should I deal with data gaps?
 
 Addressing data gaps depends on their position in the dataset and their nature:
 
@@ -35,49 +47,34 @@ Addressing data gaps depends on their position in the dataset and their nature:
 ---
 
 
-### Q: How many years of data do I need if I have multiple peaks in a year?
+### Q5: How many years of data do I need if I have multiple peaks in a year?
 
 **A:** When dealing with multiple peaks within a single year, the complexity of the data increases. It's recommended to have between 5-10 years of data to adequately characterize and understand these peaks in the context of influenza trends. This duration allows for capturing variations and anomalies, ensuring that the thresholds and models developed can accommodate the intricacies introduced by these multiple peaks.
 
 ---
 
-### Q: I need advice on dealing with the tropics. Are there solutions or just problems?
+### Q5: Can I still set thresholds if there is no clear season patten in my influenza surveillance data?
 
-**A:** The tropics pose unique challenges for influenza surveillance due to the distinct nature of its transmission dynamics:
+**A:** Areas with no clear season pattern for influenza surveillance present unique challenges due to their distinct transmission dynamics:
 
-- **Multiple Peaks:** Tropical regions sometimes exhibit more than two peaks in a single season. While the Moving Epidemic Method (MEM) and Average Curve Method (ACM) can effectively handle up to two peaks, they may not be suitable for seasons with more than two. For such scenarios:
-  - **Percentile Method:** This method can be advantageous as it doesn't rely on predefined seasonality, making it adaptable to the varying peak occurrences in the tropics.
-  - **Expert Consensus:** In the absence of a clear analytical solution, gathering expert opinion and reaching a consensus can help set meaningful thresholds tailored to the region's unique challenges.
+- **Multiple Peaks:** Such areas might show multiple peaks in influenza activity within a single season. Established methods like the Moving Epidemic Method (MEM) and Average Curve Method (ACM) are optimized for up to two peaks and might not cater to regions with more than two. In these situations:
+  - **Percentile Method:** This approach becomes beneficial as it isn't dependent on predefined seasonality, making it flexible to accommodate varying peak occurrences in regions without clear season patterns.
+  - **Expert Consensus:** When a clear analytical approach isn't evident, gathering insights from experts and forming a consensus can aid in establishing meaningful thresholds tailored to the unique characteristics of the region.
 
-- **Undefined Seasons:** The lack of a clear influenza season in some tropical regions can be addressed by:
+- **Undefined Seasons:** When a clear analytical approach isn't evident, gathering insights from experts and forming a consensus can aid in establishing meaningful thresholds tailored to the unique characteristics of the region.
   - **Segment Data:** Divide data into logical chunks (e.g., monthly or quarterly) to enable more manageable analysis and threshold setting.
   - **Leverage Local Knowledge:** Engage with local epidemiologists and health professionals to gain insights into disease circulation and inform threshold decisions.
 
-In conclusion, while tropical regions introduce complexities in influenza surveillance, a combination of analytical techniques and expert collaboration can help navigate these challenges.
+**To summarize, while regions without a clear season pattern pose certain challenges in influenza surveillance, a mix of analytical strategies and expert collaboration can assist in navigating these intricacies.**
 
 ---
-
-### Q: How many years of historical data are needed for percentiles?
-
-**A:** Determining the ideal amount of historical data for calculating percentiles is intricate and hinges on several factors:
-
-- **Variability of the Disease:** For disease with high year-to-year variability, more years of data will provide a more robust percentile estimate.
-
-- **Data Quality:** If the historical data is of high quality and consistency, fewer years might suffice. Conversely, data with inconsistencies or gaps might necessitate a longer historical dataset to derive reliable percentiles.
-
-- **Purpose of Analysis:** For short-term or preliminary insights, a smaller dataset could be acceptable. However, for comprehensive epidemiological studies or public health interventions, a longer dataset is advisable.
-
-In general, a minimum of 3-5 years of consistent, high-quality data is often recommended to calculate meaningful percentiles for influenza trends. Yet, the more years you can incorporate, the more reliable and representative your percentiles will be.
-
-
----
-### Q: How often should thresholds be reviewed and potentially recalibrated?
+### Q6: How often should thresholds be reviewed and potentially recalibrated?
 
 **A:** Regular review of thresholds is crucial to maintain their relevance and accuracy. Ideally, thresholds should be revisited **annually**. This annual review allows for the integration of data from the most recent influenza season, helping to ensure that the thresholds are up-to-date and reflective of any new epidemiological trends. Additionally, as data quality or surveillance methodologies evolve, an annual recalibration ensures that the thresholds remain robust and fit-for-purpose. Keeping thresholds current is vital for effective public health response and preparedness.
 
 ---
 
-### Q: Are there specific tools or software recommended for threshold setting?
+### Q7: Are there specific tools or software recommended for threshold setting?
 
 **A:** Absolutely, there are specialized tools and software developed for threshold setting in influenza surveillance:
 
@@ -94,13 +91,13 @@ These tools greatly streamline the threshold setting process, making it more acc
 
 ---
 
-### Q: Can we apply the same threshold settings across different diseases or conditions?
+### Q8: Can we apply the same threshold settings across different diseases or conditions?
 
 **A:** Each disease or condition has unique epidemiology, and it's generally not advisable to directly apply the same thresholds across them. However, the methodology or approach might be similar, but specific values or parameters should be tailored to each disease's characteristics.
 
 ---
 
-### Q: How do we handle unexpected outliers or anomalies in the data when setting thresholds?
+### Q9: How do we handle unexpected outliers or anomalies in the data when setting thresholds?
 
 **A:** Outliers or anomalies can significantly influence threshold calculations, potentially leading to misleading results. Here's a suggested approach:
 
@@ -121,7 +118,7 @@ By meticulously handling outliers, you can ensure that the thresholds are repres
 
 ---
 
-### Q: How should we adjust thresholds in light of significant public health interventions (like vaccinations)?
+### Q10: How should we adjust thresholds in light of significant public health interventions (like vaccinations)?
 
 **A:** Public health interventions, especially widespread measures like vaccinations, can have a profound impact on disease transmission and incidence. When such interventions are introduced, they can shift the epidemiological landscape, necessitating an adjustment in thresholds. Here's a structured approach to this adjustment:
 
@@ -143,48 +140,9 @@ Remember, the goal is to ensure that thresholds remain a meaningful tool for pub
 
 ---
 
-### Q: How do external factors, like weather patterns or public events, impact threshold settings?
+### Q11:  Influenza surveillance has just been initiated in our country in the past year. How can we set thresholds?
 
-**A:** External factors can play a significant role in the transmission and incidence of diseases, and therefore, they may influence the setting and interpretation of thresholds. Here's how some of these factors impact:
-
-1. **Weather Patterns:** Climate and weather, including temperature, humidity, and precipitation, can affect the transmission dynamics of certain diseases. For instance, influenza transmission might be higher during colder, dryer months. In such cases, thresholds may need to be adjusted seasonally to account for these predictable changes.
-
-2. **Public Events:** Large gatherings, festivals, or public events can lead to spikes in disease incidence due to increased human-to-human contact. If such events are regular and predictable (e.g., annual festivals), it might be worth considering separate thresholds or at least contextualizing data during these periods.
-
-3. **Migration Patterns:** Movement of populations, whether due to seasonal work, migration, or tourism, can introduce new cases into an area or change local disease dynamics. This can lead to transient changes in disease incidence, influencing threshold settings.
-
-4. **Behavioral Changes:** Public awareness campaigns, school holidays, or cultural practices can influence behavior and, subsequently, disease transmission. For example, hand hygiene campaigns might temporarily reduce disease incidence.
-
-5. **Infrastructure and Environmental Changes:** Factors like urbanization, construction projects, or deforestation can influence disease vectors and transmission patterns. They might necessitate longer-term adjustments in thresholds.
-
-6. **Interconnectedness:** In today's globalized world, an outbreak in one region can quickly influence another due to travel and trade. Being aware of global disease trends can help in understanding sudden changes in local thresholds.
-
-When setting or reviewing thresholds, it's essential to be aware of these external factors and consider how they might impact the data. Analyzing disease trends in the context of these factors will provide a more accurate and actionable understanding of the current situation.
-
-
----
-### Q: Should thresholds be adjusted for population size or density?
-
-**A:** Yes, population size and density can significantly influence the transmission dynamics of diseases and, therefore, the setting of thresholds. Here's a breakdown of why and how:
-
-1. **Population Size:** The absolute number of cases in a large population might be higher than in a smaller population, even if the rate of transmission or the proportion of affected individuals is the same. Therefore, when considering thresholds, it's often more informative to look at incidence rates (e.g., cases per 100,000 individuals) rather than absolute numbers. This provides a standardized measure that is comparable across regions with different population sizes.
-
-2. **Population Density:** Areas with higher population density might experience more rapid disease spread due to closer human-to-human contact. Diseases that spread via respiratory droplets, for instance, might see quicker transmission in densely populated urban areas compared to rural areas. In such cases, thresholds might need to be set differently for regions based on their population density.
-
-3. **Heterogeneity in Population Density:** In many regions, population density isn't uniform. Urban centers might be very densely populated, while surrounding areas are sparser. In such cases, a single threshold might not be adequate, and separate thresholds might need to be established for different parts of the region.
-
-4. **Mobility Patterns:** Areas with high population density often have a higher volume of people moving in and out, due to work, tourism, or other reasons. This increased mobility can also influence disease transmission dynamics. While this is more about mobility than density per se, the two often go hand in hand.
-
-5. **Healthcare Infrastructure:** Densely populated areas often have more healthcare facilities, but they might also experience a higher strain on these facilities during outbreaks. Understanding the balance between population density and healthcare capacity can also inform threshold settings.
-
-In summary, when setting or adjusting thresholds, it's crucial to consider both the size and density of the population. These factors can influence not just the raw numbers but also the speed and pattern of disease spread.
-
-
----
-
-### Q: How do we manage thresholds for new or emerging diseases with limited historical data?
-
-**A:** Setting thresholds for new or emerging diseases with scarce historical data presents a unique challenge. Here's a structured approach to address this:
+**A:** Establishing thresholds for influenza surveillance  with scarce historical data requires a strategic approach. Here's a way to handle it:
 
 1. **Expert Consensus:** Initially, rely on expert consensus. Assemble a team of epidemiologists, clinicians, and other relevant experts to provide insights based on the limited data available and their knowledge of similar diseases.
 
@@ -207,7 +165,7 @@ In summary, while limited historical data complicates threshold setting for new 
 
 ---
 
-### Q: Should public perception or media attention influence threshold adjustments?
+### Q12: Should public perception or media attention influence threshold adjustments?
 
 **A:** Public perception and media attention play a significant role in shaping the public's response to health events. However, when it comes to the scientific process of setting thresholds, the primary considerations should be evidence-based and rooted in epidemiological data. Here's a structured perspective:
 
@@ -227,7 +185,7 @@ In summary, while thresholds should remain primarily data-driven, it's vital to 
 
 ---
 
-### Q: Can existing methods be adapted to context or otherwise?
+### Q13: Can existing methods be adapted to context or otherwise?
 
 **A:** Absolutely, existing methods can be modified and adjusted based on the context and specific needs of a region or country. The main aim is to ensure that thresholds are both scientifically sound and relevant to the local epidemiological situation. Here's a breakdown:
 
@@ -247,7 +205,7 @@ In conclusion, while there are established methods for threshold setting, they a
 
 ---
 
-### Q: What are the pros and cons of excluding COVID-19 pandemic era data in influenza thresholds settings?
+### Q14: What are the pros and cons of excluding COVID-19 pandemic era data in influenza thresholds settings?
 
 **A:** The COVID-19 pandemic had significant impacts on global health systems, public behaviors, and the circulation of other respiratory viruses, including influenza. The pros and cons of excluding this era data from influenza threshold settings are:
 
