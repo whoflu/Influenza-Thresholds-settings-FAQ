@@ -297,6 +297,6 @@ In summary, the addition of new sentinel sites enriches the surveillance data bu
 
 4. **Dynamic Adjustments:**
       - Be prepared to modify thresholds based on ongoing surveillance. As more data becomes available, recalibrating thresholds can help in addressing the clustering of intensity thresholds.
-
+  
    In summary, closely spaced intensity thresholds require meticulous data scrutiny and methodological adjustments. Regular reviews, expert consultation, and dynamic recalibrations are essential to ensure the thresholds are meaningful and actionable.
 --- 
