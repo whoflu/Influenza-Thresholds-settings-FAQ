@@ -235,9 +235,9 @@ In conclusion, while there are established methods for threshold setting, they a
 
 **A:** The addition of new sentinel sites to an influenza surveillance system can significantly impact the threshold setting process in several ways:
 
-1. **Increase in Data Volume:** More sentinel sites usually mean more data. This can lead to a better representation of influenza activity in the entire population, potentially increasing the precision of the thresholds.
+ 1. **Increase in Data Volume:** More sentinel sites usually mean more data. This can lead to a better representation of influenza activity in the entire population, potentially increasing the precision of the thresholds.
 
-2. **Spatial Variability:** Different sentinel sites might capture data from areas with distinct influenza activity patterns. It's crucial to consider the heterogeneity introduced by these new sites, especially if they represent previously unsampled regions.
+ 2. **Spatial Variability:** Different sentinel sites might capture data from areas with distinct influenza activity patterns. It's crucial to consider the heterogeneity introduced by these new sites, especially if they represent previously unsampled regions.
 
  3. **Data Consistency:** The introduction of new sentinel sites can sometimes cause an artificial surge in reported cases, not due to increased disease activity but because of the expanded surveillance. It's crucial to differentiate these artificial trends from genuine influenza activity.
 
